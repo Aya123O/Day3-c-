@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1731957210 source:/home/aya/Desktop/Day3/main.c
+
+1731955839 source:/home/aya/Desktop/Day3/Question2.c
+	<stdio.h>
+
+1731959602 source:/home/aya/Desktop/Day3/Q2.c
+
+1731957189 source:/home/aya/Desktop/Day3/Q1.c
+	<windows.h>
+	<unistd.h>
+	<termios.h>
+
+1731960051 source:/home/aya/Desktop/Day3/Q3.c
+
+1731960611 source:/home/aya/Desktop/Day3/Q4.c
+	<stdio.h>
+
