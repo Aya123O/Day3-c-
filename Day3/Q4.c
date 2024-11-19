@@ -12,7 +12,7 @@ int main() {
     scanf("%d", &cols);
 
 
-    int arr[rows * cols];
+    int arr[100];
 
 
     printf("Enter the elements of the array:\n");
